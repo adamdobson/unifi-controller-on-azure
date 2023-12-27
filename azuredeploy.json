@@ -74,6 +74,9 @@
                                     "name": "azurefile",
                                     "mountPath": "/config/"
                                 }
+                            ],
+                            "command": [
+                                "tail -f /dev/null"
                             ]
                         }
                     }
