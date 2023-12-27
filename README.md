@@ -2,6 +2,9 @@
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdanieletten%2Funifi-controller-on-azure%2Fmain%2Fazuredeploy.json)
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/adamdobson/unifi-controller-on-azure/main/azuredeploy.json)
+
+
 Do you want to use a docker container to host your Unifi Controller?
 
 Did you take a look at an Azure Web App to host you Unifi Controller, but noticed that you couldn't setup the required ports?
