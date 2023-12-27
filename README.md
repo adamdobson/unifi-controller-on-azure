@@ -1,7 +1,5 @@
 # Run a Ubiquiti Unifi Controller on Azure Container Instances
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdanieletten%2Funifi-controller-on-azure%2Fmain%2Fazuredeploy.json)
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadamdobson%2Funifi-controller-on-azure%2Fmain%2Fazuredeploy.json)
 
 
